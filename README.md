@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Shashank Hegde</h2>
-<h1><b>📫 How to reach me - hegdeshashank01@gmail.com</h2>
+<h4><b>📫 How to reach me - hegdeshashank01@gmail.com</h4>
 
 ###
 
