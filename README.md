@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Shashank Hegde</p>
+
 
 ###
 
