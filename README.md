@@ -5,12 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" 
-  height="25" alt="website logo" />
-
+  <a href="https://www.linkedin.com/in/shashank-hegde-779b33268/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@petlandeboys" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
@@ -29,8 +29,7 @@
 
 ###
 
-<p align="left">I'm Shashank Hegde<br>- 🔭 I
-  worked on Arecanut Management System<br>- 📚 I'm currently learning ML and MBA<br>- ⚡ In my free time I do nothing</p>
+<p align="left">I'm Shashank Hegde<br>- 🔭 I’m worked on Arecanut Management System<br>- 📚 I'm currently learning ML and MBA<br>- ⚡ In my free time I do nothing</p>
 
 ###
 
