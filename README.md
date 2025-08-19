@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Shashank Hegde<br>- 🔭 I worked on Arecanut Management System<br>- 📚 I'm currently learning MCA think so <br>- ⚡ In my free time I do nothing</p>
+<p align="left">I'm Shashank Hegde<br>- 🔭 I worked on Arecanut Management System<br>- 📚 I'm currently learning nothing <br>- ⚡ In my free time I do nothing</p>
 
 ###
 
